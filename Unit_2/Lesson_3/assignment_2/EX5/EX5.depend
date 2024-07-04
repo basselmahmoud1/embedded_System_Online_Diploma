@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1720113303 source:d:\courses\embedded\learnindepth\embedded_c\embedded_system_online_diploma\unit_2\lesson_3\assignment_2\ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+
