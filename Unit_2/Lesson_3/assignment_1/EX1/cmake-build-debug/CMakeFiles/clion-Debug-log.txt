@@ -1,0 +1,1 @@
+CMakeLists.txt not found in D:\courses\Embedded\Learnindepth\Embedded_C\embedded_System_Online_Diploma\Unit_2\Lesson_3\assignment_1\EX1 Select CMakeLists.txt
